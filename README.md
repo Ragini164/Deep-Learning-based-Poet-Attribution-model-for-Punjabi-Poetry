@@ -10,4 +10,4 @@ F. Tariq, R. Gopchandani, R. H. Nizamani, A. Samad and M. M. Anwar, "Deep Learni
 https://ieeexplore.ieee.org/document/10737982/keywords#keywords
 
 ## Code and Dataset
-The repository contains the source code and dataset used for the research. Feel free to explore and contribute to the project.
+The repository contains the source code and dataset used for the research. 
