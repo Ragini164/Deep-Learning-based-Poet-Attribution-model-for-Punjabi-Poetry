@@ -1,4 +1,4 @@
-# Deep Learning Based Poet Attribution Model for Punjabi Poetry
+# Deep Learning-Based Poet Attribution Model for Punjabi Poetry
 
 ## About
 This project involved developing a deep learning model for poet attribution in Punjabi poetry, covering Shahmukhi, Gurmukhi, and Roman scripts. Using a dataset of 830 poems from 11 poets, we employed Multilingual DistilBERT to generate embeddings. The model achieved 91.57% accuracy on the Roman script, and 90.36% and 87.95% accuracy on the Gurmukhi and Shahmukhi scripts, respectively. This work was awarded Best Paper at ICETST 2024 and is available on IEEE Xplore.
